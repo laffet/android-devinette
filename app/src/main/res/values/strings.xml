@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Devinette</string>
+    <string name="ReglesduJeu">Deviner le nombre cache</string>
+    <string name="Resultat">Gagne ou perdu</string>
+</resources>
